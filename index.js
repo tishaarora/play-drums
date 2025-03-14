@@ -1,4 +1,4 @@
-alert("aao");
+
 var butt = document.querySelectorAll(".drum").length;
 for (var i = 0; i<butt; i++){
     document.querySelectorAll(".drum")[i].addEventListener("click", 
